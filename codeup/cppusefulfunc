@@ -3,4 +3,4 @@ cout << fixed;
 cout.precision(); : 소숫점 고정
 
 cout.width(); : 칸 수 고정
-cout.fill(); : width의 빈 칸은 괄호 안의 것으로 채움 
+cout.fill(''); : width의 빈 칸은 괄호 안의 것으로 채움 
