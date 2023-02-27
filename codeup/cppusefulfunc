@@ -1,4 +1,4 @@
-scanf/printf와 cin/cout의 차이 : scanf/printf가 속도는 더 빠름, cin은 scanf와 달리 string값을 들일 수 있음, endl은 줄넘기기에 동시에 
+scanf/printf와 cin/cout의 차이 : https://sunullo319777go.tistory.com/m/41
 
 
 printf 출력형식 : %d	int값을 부호있는 10진수로 출력
